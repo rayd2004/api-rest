@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "fecha": "2025-04-20",
+    "hora": "12:30",
+    "nombre": "lisney",
+    "correo": "lisney@example.com",
+    "telefono": "1234567890",
+    "motivo": "Consulta sobre dolores de cabeza"
+  }
+]
