@@ -1,3 +1,22 @@
+# node modules
 node_modules/
+
+# entorno
 .env
+
+# certificados HTTPS
 src/cert/
+
+# sistema operativo
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# archivo temporal
+*.tmp
