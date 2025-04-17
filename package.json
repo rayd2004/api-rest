@@ -1,20 +1,16 @@
 {
   "name": "api-rest",
   "version": "1.0.0",
+  "description": "Servidor HTTPS con Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./src/index.js"
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Raydmon Alcedo",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0",
-    "fs": "^0.0.1-security",
-    "http": "^0.0.1-security",
-    "nodemon": "^3.1.9",
-    "openssl": "^2.0.0"
+    "nodemon": "^3.1.9"
   }
 }

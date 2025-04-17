@@ -1,20 +1,28 @@
-# API REST de Reservas
+# 🚀 API REST de Reservas
 
-Este proyecto es una API REST desarrollada en Node.js usando Express, con conexión segura HTTPS.
+Esta es una API REST desarrollada en **Node.js** con **Express**, que utiliza conexión segura **HTTPS** mediante certificados SSL.
 
-## Características
+---
 
-- Crear reservas con datos como fecha, hora, nombre, correo, teléfono y motivo.
-- Verificación para evitar reservas duplicadas.
-- Servidor seguro con certificados SSL.
-- Almacenamiento local en archivo JSON (`reserva.json`).
+## ✨ Características
 
-## Instalación
+✅ Crear reservas con los siguientes datos:
+- Fecha 📅  
+- Hora ⏰  
+- Nombre 🧑  
+- Correo electrónico 📧  
+- Teléfono 📞  
+- Motivo 📝  
 
-1. Clona el repositorio.
-2. Ejecuta `npm install` para instalar las dependencias.
-3. Usa `nodemon` o `node` para ejecutar `src/index.js`.
+✅ Verificación automática para evitar duplicados  
+✅ Certificados SSL para conexión segura  
+✅ Almacenamiento local en archivo `JSON` (`reserva.json`)  
 
-## Autor
+---
 
-Raydmon Alcedo
+## 🔧 Instalación
+
+1. 🔁 Clona este repositorio:
+   ```bash
+   git clone https://github.com/rayd2004/api-rest.git
+   cd api-rest
