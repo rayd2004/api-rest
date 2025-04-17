@@ -1,3 +1,5 @@
+![Banner del Proyecto](banner.png.png)
+
 # 🚀 API REST de Reservas
 
 Esta es una API REST desarrollada en **Node.js** con **Express**, que utiliza conexión segura **HTTPS** mediante certificados SSL.
